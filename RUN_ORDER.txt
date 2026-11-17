@@ -1,0 +1,18 @@
+RUN IN THIS ORDER (from the project folder):
+1) python -m pip install -r requirements.txt
+2) python lcs.py
+3) python knapsack_dp.py
+4) python matrix_chain.py
+5) python app.py
+6) python run_experiments.py
+7) python make_plots.py
+
+Keep screenshots of:
+- each algorithm's console output and DP table
+- the interactive menu output
+- outputs/runtime_comparison.png
+- outputs/memory_comparison.png
+- outputs/recursion_vs_dp.png
+- the three DP table heatmaps
+
+Do not submit benchmark numbers from another computer as your own measurements.
